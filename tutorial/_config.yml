@@ -1,11 +1,11 @@
 # Site settings
-name: 
-email: 
-job_title: 
-institution: 
-institution_URL: 
-twitter_username: 
-github_username: 
+name: Galaxy of the Guardien
+email: dreambig.ou@gmail.com
+job_title: student
+institution: UIUC
+institution_URL: illinoi.edu
+twitter_username: twitter id 
+github_username: dreambigou
 
 # Build settings
 markdown: kramdown
